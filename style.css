@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.navBar{
+    position: absolute;
+    width: 100%;
+    height: 30%;
+    background-color: rgba(0,255,0,0.3);
+}
+#logo{
+    position: absolute;
+    width: 20%;
+    height:80%;
+    top: 10%;
+    left: 1%;
+}
+#nameCompany{
+    position: absolute;
+    left: 30%;
+    top: 35%;
+    color: white;
+}
+.otkup{
+    position: absolute;
+    top: 100%;
+}
+#komercijala{
+    font-size: 370%;
+}
+#naslovOtkup{
+    font-size: 250%;
+}
+ol li{
+    font-size: 200%;
+}
+hr{
+    width: 104%;
+}
+.slike #slika1{
+    position: absolute;
+    width: 20%;
+    top: 250%;
+    left: 2%;
+}
+.slike #slika2{
+    position: absolute;
+    width: 20%;
+    top: 250%;
+    left: 28%;
+}
+.slike #slika3{
+    position: absolute;
+    width: 20%;
+    top: 250%;
+    left: 54%;
+}
+.slike #slika4{
+    position: absolute;
+    width: 18%;
+    height: 198%;
+    top: 250%;
+    left: 80%;
+}
+.text{
+    position: absolute;
+    top: 500%;
+}
+.theAnd{
+    position: absolute;
+    top: 770%;
+}
+.theAnd #slika6{
+    position: absolute;
+    width: 70%;
+    left: 200%;
+}
+
+
+
